@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "STORAGE_ACCOUNT_NAME": "yweatherrga95a",
+      "BLOB_CONTAINER_NAME": "weather-logs-local",
+      "CITY_NAME": "Lagos",
+      "TIMER_SCHEDULE": "0 */3 * * *",
+      "SENDGRID_API_KEY": "your-local-sendgrid-key",
+      "TO_EMAIL": "paulterlumun101@gmail.com",
+      "FROM_EMAIL": "torkumamatthew@outlook.com"
+    }
+  }
+  
